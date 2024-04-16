@@ -5,3 +5,9 @@
 	path = themes/congo
 	url = https://github.com/jpanther/congo.git
 	branch = stable
+	shallow = true
+[submodule "themes/blowfish"]
+	path = themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
+	branch = main
+	shallow = true
