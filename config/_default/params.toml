@@ -69,13 +69,14 @@ smartTOC = true
   invertPagination = false
   showReadingTime = false
   showTableOfContents = true
-  showRelatedContent = true
+  showRelatedContent = false
   relatedContentLimit = 3
   showTaxonomies = false
   showAuthorsBadges = false
   showWordCount = false
   sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
   showZenMode = true
+  showComments = true
 
 [list]
   showHero = false
