@@ -133,7 +133,7 @@ disableTextInHeader = false
 
 [umamiAnalytics]
   websiteid = "d85be2f0-97f1-4aae-a9af-8514b1ce3771"
-  domain = "norsedreki.com"
+  domain = "https://eu.umami.is"
 
 [buymeacoffee]
   # identifier = ""
