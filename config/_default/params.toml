@@ -22,11 +22,11 @@ disableTextInHeader = false
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
 
 # highlightCurrentMenuArea = true
-smartTOC = true
+# smartTOC = true
 # smartTOCHideUnfocusedChildren = true
 
 [header]
-  layout = "fixed-gradient" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
+  layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
 
 [footer]
   showMenu = true
@@ -119,13 +119,13 @@ smartTOC = true
   cardViewScreenWidth = false
 
 [firebase]
-  # apiKey = "XXXXXX"
-  # authDomain = "XXXXXX"
-  # projectId = "XXXXXX"
-  # storageBucket = "XXXXXX"
-  # messagingSenderId = "XXXXXX"
-  # appId = "XXXXXX"
-  # measurementId = "XXXXXX"
+  apiKey = "AIzaSyAhVedwGQ5mGXb_iPhAMS6bDy99JerMkKI"
+  authDomain = "norsedreki.firebaseapp.com"
+  projectId = "norsedreki"
+  storageBucket = "norsedreki.appspot.com"
+  messagingSenderId = "1021258667572"
+  appId = "1:1021258667572:web:8773f3d66b77bb17551c61"
+  measurementId = "G-HY2N5MFRHY"
 
 [fathomAnalytics]
   # site = "ABC12345"
